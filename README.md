@@ -214,7 +214,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ---
 
-## Autors
+## Authors
 
 * **July Chassot** - [GitHub](https://github.com/LastChassot)
 * **Débora Castro** - [GitHub](https://github.com/cyberdebb) 
